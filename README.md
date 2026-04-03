@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-- 🚀 Frontend Engineer with **4+ years of experience**
+- 🚀 Frontend Engineer with **5+ years of experience**
 - ⚛️ Specialized in **React, Next.js, TypeScript**
 - 🎯 Focused on building **scalable, performant UI**
 - 🧠 Strong interest in **frontend architecture & micro frontends**
